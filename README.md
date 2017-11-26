@@ -32,7 +32,8 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference -Hidden salesperson IDs are accessible.
+<img src = 'https://github.com/mostafizur188/week8/blob/master/image3.gif' title ='IDOR' alt ='CSRF' />
 
 Vulnerability #2: __________________
 
