@@ -16,7 +16,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection-The id parameter is unsanitized and escapable on the salesperson page.
 
 Vulnerability #2: __________________
 
