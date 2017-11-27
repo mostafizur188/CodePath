@@ -28,7 +28,8 @@ Vulnerability #2: Session Hijacking/Fixation - A new session ID was not regenera
 Vulnerability #1: Username Enumeration - Error message text becomes unbold if the username doesn't exist.
 <img src ='https://github.com/mostafizur188/week8/blob/master/image5.gif' title ='ENUMERATION' alt='ENUMERATION' />
 
-Vulnerability #2: __________________
+Vulnerability #2: Stored Cross-site Scripting - The 'name' and 'feedback' fields on the Feedback page are unsanitized. Guests can send malicious messages with embedded web scripts that will trigger once opened. 
+<img src ='https://github.com/mostafizur188/week8/blob/master/image6.gif' title ='XSS' alt ='XSS' />
 
 
 ## Red
