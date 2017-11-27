@@ -25,7 +25,8 @@ Vulnerability #2: Session Hijacking/Fixation - A new session ID was not regenera
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration - Error message text becomes unbold if the username doesn't exist.
+<img src ='https://github.com/mostafizur188/week8/blob/master/image5.gif' title ='ENUMERATION' alt='ENUMERATION' />
 
 Vulnerability #2: __________________
 
